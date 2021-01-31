@@ -1,1 +1,1 @@
-# juniorpythontask
+Programming task for Medrating company
